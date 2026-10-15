@@ -1,0 +1,8 @@
+{
+    "name": "laravel/laravel",
+    "type": "project",
+    "description": "The skeleton application for the Laravel framework.",
+    "require": {
+        "php": "^8.2"
+    }
+}
